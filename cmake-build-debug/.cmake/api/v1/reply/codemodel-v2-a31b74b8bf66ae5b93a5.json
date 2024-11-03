@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DijkstraGooglemaps",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DijkstraGooglemaps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DijkstraGooglemaps-Debug-8d41c493b4d7c0077298.json",
+					"name" : "DijkstraGooglemaps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Edgar/Desktop/Tec_de_Monterrey/Semestre 3/Programacion de estructuras de datos y algoridmos fundamentales/DijkstraGooglemaps/cmake-build-debug",
+		"source" : "C:/Users/Edgar/Desktop/Tec_de_Monterrey/Semestre 3/Programacion de estructuras de datos y algoridmos fundamentales/DijkstraGooglemaps"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
